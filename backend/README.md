@@ -1,12 +1,16 @@
-[1. Setup instructions](#1-setup-instructions)
-[1.1 Project setup](#11-project-setup)
-[1.2 Compile and run the project](#12-compile-and-run-the-project)
-[1.3 Run tests](#13-run-tests)
-[1.4 Run Migration](#14-run-migration)
-[1.5 Run Seed](#15-run-seed)
-[2. Architecture explanation](#2-architecture-explanation)
-[3. Trade-offs](#3-trade-offs)
-[4. Judgment and Decision-making](#4-judgment-and-decision-making)
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [1. Setup instructions](#1-setup-instructions)
+  - [1.1 Project setup](#11-project-setup)
+  - [1.2 Compile and run the project](#12-compile-and-run-the-project)
+  - [1.3 Run tests](#13-run-tests)
+  - [1.4 Run Migration](#14-run-migration)
+  - [1.5 Run Seed](#15-run-seed)
+- [2. Architecture explanation](#2-architecture-explanation)
+- [3. Trade-offs](#3-trade-offs)
+- [4. Judgment and Decision-making](#4-judgment-and-decision-making)
+
 
 ## 1. Setup instructions
 
